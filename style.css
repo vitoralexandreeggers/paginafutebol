@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 2;
+}
+
+.logotipo{
+    height: 300px;
+}
+header{
+    height: 400px;
+    background-color: gold;
+}
+main{
+    height: 700px;
+    background-color: green;
+    color: gold;
+}
+footer{
+    height: 200px;
+    background-color: rgb(10, 10, 131);
+    color: antiquewhite;
+}
+.fut{
+    height: 300px;
+}
+.ope{
+ height: 300px;
+}
